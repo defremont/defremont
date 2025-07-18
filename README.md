@@ -33,7 +33,7 @@ I thrive on leading projects from concept to production, managing both high-leve
 
 ---
 
-### 🏆 My Five Most Valuable Projects
+### 🏆 Most Valuable Projects
 
 Here are five key projects that represent the core of my experience. The commit counts reflect my direct, hands-on contributions.
 
@@ -54,18 +54,6 @@ Here are five key projects that represent the core of my experience. The commit 
 - **My Role:** Creator and lead developer. I designed the system to run on Hyperledger Fabric and IPFS to decentralize the storage and validation of academic papers. I personally contributed **over 95 commits**.
 - **Why it's valuable:** This project is a proof-of-concept for how blockchain can revolutionize traditional industries. It highlights my deep understanding of decentralized systems and my ability to innovate.
 - **Tech:** Hyperledger Fabric, Hyperledger Composer, IPFS, Node-RED.
-
-#### 4. Core Blockchain Infrastructure
-- **What it is:** A collection of foundational blockchain projects, including the `Default Basic Protocol` chaincode (**23 commits**) and the `Agrochains Coffee Middleware` (**42 commits**).
-- **My Role:** I designed and developed these core components to serve as the backbone for various supply chain solutions at Amachains.
-- **Why it's valuable:** This work demonstrates my expertise at the lowest levels of blockchain development—creating the smart contracts and middleware that power our entire ecosystem. It's the engine behind our applications.
-- **Tech:** Hyperledger Fabric, Node.js, TypeScript, Docker, Kubernetes.
-
-#### 5. RadioGuess - Cultural Geography Game
-- **What it is:** An educational game where players guess their location in Google Street View based on the music from local radio stations.
-- **My Role:** Solo creator. I built this project to explore creative uses of modern web technologies and APIs.
-- **Why it's valuable:** It showcases my versatility as a full-stack developer, my passion for creating engaging user experiences, and my ability to integrate disparate services (Google Maps, Radio APIs) into a cohesive product.
-- **Tech:** Next.js, React, Google Maps API, MongoDB.
 
 ---
 
