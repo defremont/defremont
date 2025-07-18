@@ -58,7 +58,7 @@ Here are some of the projects I'm most proud of:
 2.  **DASP - Decentralized Autonomous Scientific Publisher**
     * An innovative academic publishing platform that uses blockchain for transparent, decentralized peer-review.
     * **Stack:** Hyperledger Fabric, IPFS, Node-RED.
-    * **Highlight:** A unique concept that tackles real challenges in academic publishing. It showcases deep expertise in blockchain architecture. (⭐ 2 GitHub Stars)
+    * **Highlight:** A unique concept that tackles real challenges in academic publishing. It showcases deep expertise in blockchain architecture.
 
 3.  **RadioGuess - Cultural Geography Game**
     * An educational game where players guess locations based on local radio stations.
