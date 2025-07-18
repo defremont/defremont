@@ -4,66 +4,68 @@
 
 ### **Full-Stack Blockchain Architect | Chief Information Officer (CIO) at Amachains**
 
-I'm a seasoned developer and technology leader with over 8 years of experience, specializing in building enterprise-grade blockchain solutions from the ground up. My passion lies in leveraging technology to solve real-world challenges, particularly in supply chain traceability and environmental sustainability.
+I am a technology leader and developer with **8+ years of experience** specializing in architecting and building enterprise-grade blockchain solutions. As CIO, my mission is to leverage technology to solve real-world challenges, particularly in **supply chain traceability**, **ESG compliance**, and **financial technology**.
+
+I thrive on leading projects from concept to production, managing both high-level strategy and hands-on development.
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/andredefremont)
 [<img src="https://img.shields.io/badge/gitlab-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white" />](https://gitlab.com/defremont)
 
 ---
 
-### 🚀 What I'm Currently Focused On
+### 🛠️ My Core Expertise
 
-As the CIO at **Amachains**, I lead our technology strategy and the development of our core platforms, including:
-- **Enterprise Blockchain Solutions:** Building robust supply chain traceability systems using Hyperledger Fabric.
-- **Sustainability Tech:** Developing our Carbon Management Platform to help businesses track and reduce their environmental impact.
-- **Full-Stack SaaS Development:** Architecting and creating scalable, feature-rich applications for our clients.
-
----
-
-### 🛠️ My Tech Stack & Tools
-
-**Blockchain:**
-![Hyperledger](https://img.shields.io/badge/Hyperledger-Fabric-blue?style=for-the-badge&logo=hyperledger)
-
-**Frontend:**
+**Languages & Frameworks:**
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?&style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-**Backend & Databases:**
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=openjdk&logoColor=white)
+
+**Blockchain & DevOps:**
+![Hyperledger](https://img.shields.io/badge/Hyperledger-Fabric-blue?style=for-the-badge&logo=hyperledger)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
 
-**DevOps & Cloud:**
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/gitlab--ci-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white)
-
 ---
 
-### ✨ Featured Projects
+### 🏆 My Five Most Valuable Projects
 
-Here are some of the projects I'm most proud of:
+Here are five key projects that represent the core of my experience. The commit counts reflect my direct, hands-on contributions.
 
-1.  **Amachains Carbon Management Platform**
-    * An enterprise-grade platform for tracking carbon footprints and managing ESG (Environmental, Social, and Governance) data.
-    * **Stack:** Vue.js 3, TypeScript, Node.js, MongoDB.
-    * **Impact:** A real-world solution for sustainability, featuring a complex client-server architecture and handling large-scale data.
+#### 1. Amachains Financial Management SaaS
+- **What it is:** A complete, multi-tenant financial management platform with Stripe integration for subscriptions, invoicing, and analytics.
+- **My Role:** I led the architecture and development of both the frontend and backend, with **298 commits** to the client and **219 commits** to the server.
+- **Why it's valuable:** It's a production-grade SaaS application that demonstrates my ability to build complex, secure, and scalable financial systems from scratch.
+- **Tech:** JavaScript, Node.js, Express, MongoDB.
 
-2.  **DASP - Decentralized Autonomous Scientific Publisher**
-    * An innovative academic publishing platform that uses blockchain for transparent, decentralized peer-review.
-    * **Stack:** Hyperledger Fabric, IPFS, Node-RED.
-    * **Highlight:** A unique concept that tackles real challenges in academic publishing. It showcases deep expertise in blockchain architecture.
+#### 2. Amachains Carbon Management Platform
+- **What it is:** An enterprise platform for ESG reporting, allowing companies to track their carbon footprint across the entire supply chain.
+- **My Role:** As the lead, I was responsible for the full-stack implementation, contributing **142 commits** to the Vue.js client and **151 commits** to the Node.js backend server.
+- **Why it's valuable:** This project solves a critical business need for sustainability and compliance, showcasing my expertise in building data-intensive, enterprise-level applications.
+- **Tech:** Vue.js 3, TypeScript, Node.js, MongoDB, Chart.js.
 
-3.  **RadioGuess - Cultural Geography Game**
-    * An educational game where players guess locations based on local radio stations.
-    * **Stack:** Next.js, Google Street View API, MongoDB.
-    * **Highlight:** A fun, creative project that combines multiple APIs and demonstrates full-stack skills outside of the enterprise space.
+#### 3. DASP - Decentralized Autonomous Scientific Publisher
+- **What it is:** An innovative academic publishing platform that uses blockchain to ensure transparency and immutability in the peer-review process.
+- **My Role:** Creator and lead developer. I designed the system to run on Hyperledger Fabric and IPFS to decentralize the storage and validation of academic papers. I personally contributed **over 95 commits**.
+- **Why it's valuable:** This project is a proof-of-concept for how blockchain can revolutionize traditional industries. It highlights my deep understanding of decentralized systems and my ability to innovate.
+- **Tech:** Hyperledger Fabric, Hyperledger Composer, IPFS, Node-RED.
+
+#### 4. Core Blockchain Infrastructure
+- **What it is:** A collection of foundational blockchain projects, including the `Default Basic Protocol` chaincode (**23 commits**) and the `Agrochains Coffee Middleware` (**42 commits**).
+- **My Role:** I designed and developed these core components to serve as the backbone for various supply chain solutions at Amachains.
+- **Why it's valuable:** This work demonstrates my expertise at the lowest levels of blockchain development—creating the smart contracts and middleware that power our entire ecosystem. It's the engine behind our applications.
+- **Tech:** Hyperledger Fabric, Node.js, TypeScript, Docker, Kubernetes.
+
+#### 5. RadioGuess - Cultural Geography Game
+- **What it is:** An educational game where players guess their location in Google Street View based on the music from local radio stations.
+- **My Role:** Solo creator. I built this project to explore creative uses of modern web technologies and APIs.
+- **Why it's valuable:** It showcases my versatility as a full-stack developer, my passion for creating engaging user experiences, and my ability to integrate disparate services (Google Maps, Radio APIs) into a cohesive product.
+- **Tech:** Next.js, React, Google Maps API, MongoDB.
 
 ---
 
