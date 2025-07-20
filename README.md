@@ -29,6 +29,7 @@ As **CIO at Amachains**, I lead technical strategy and implementation for ESG co
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=openjdk&logoColor=white)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/PHP-%23316192?style=for-the-badge&logo=php&logoColor=white)
 
 **Blockchain & Infra:**
 ![Hyperledger Fabric](https://img.shields.io/badge/Hyperledger-Fabric-blue?style=for-the-badge&logo=hyperledger)
