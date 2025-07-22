@@ -4,7 +4,7 @@
 
 ### 🚀 Full-Stack Blockchain Architect | CIO at Amachains | RNP Blockchain Engineer
 
-With over **8 years of experience** and a portfolio spanning **81 projects** and **480K+ lines of code**, I design and lead enterprise-ready applications at the intersection of **blockchain**, **AI**, and **sustainability**.
+With over **8 years of experience** and a portfolio spanning **50+ projects** and **480K+ lines of code**, I design and lead enterprise-ready applications at the intersection of **blockchain**, **AI**, and **sustainability**.
 
 I specialize in:
 - **Blockchain systems** (Hyperledger Fabric, Ethereum, IPFS)
