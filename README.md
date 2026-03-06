@@ -1,32 +1,37 @@
 # Andre Defremont
 
-Software Engineer & Blockchain Architect — CIO @ Amachains
+Software Engineer -- 10+ years, 90+ projects, mostly figuring things out.
 
-10+ years building scalable applications, enterprise blockchain systems, and AI-powered tools.
-90+ projects across GitHub & GitLab. Based in Belem, Brazil.
+Currently CIO @ Amachains. Based in Belem, Brazil.
 
-[![Portfolio](https://img.shields.io/badge/dcoder.io-000?style=flat-square&logo=googlechrome&logoColor=white)](https://dcoder.io)
+[![dcoder.io](https://img.shields.io/badge/dcoder.io-000?style=flat-square&logo=googlechrome&logoColor=white)](https://dcoder.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/andredefremont)
 [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/defremont)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:adcoderio@gmail.com)
 
 ---
 
-**Stack:** TypeScript, React, Vue.js, Next.js, Node.js, Python, Go, Java — Hyperledger Fabric, Ethereum, Solidity, IPFS — Kubernetes, Docker, AWS — OpenAI, Claude, Gemini
+```
+frontend   react, vue, next.js, typescript
+backend    node, python, go, java, c#
+infra      kubernetes, docker, aws, helm
+databases  postgres, mongodb, redis
+also       hyperledger, ethereum, solidity
+```
 
 ---
 
-**Selected Work**
+**Some things I've built**
 
-| Project | Description |
+| Project | What it does |
 |---|---|
-| [Rede Capanema](https://dev.redecapanema.com.br) | Multi-vendor marketplace with split payments and AI product creation |
-| [DASP](https://github.com/defremont/dasp-composed) | Decentralized scientific publisher on Hyperledger Fabric + IPFS |
-| [GitFolio](https://gitfolio.dcoder.io) | AI-powered portfolio generator with multi-LLM support |
-| [RadioGuess](https://radioguess.dcoder.io) | Geography game with real-time radio streaming and Street View |
-| [Audience Insights](https://github.com/defremont/audience-insights) | Real-time analytics platform with AI-powered sentiment analysis |
+| [Rede Capanema](https://dev.redecapanema.com.br) | Multi-vendor marketplace with split payments for local businesses |
+| [RadioGuess](https://radioguess.dcoder.io) | Geography game -- guess the country from its radio stations |
+| [Audience Insights](https://github.com/defremont/audience-insights) | Real-time Twitch chat analysis with sentiment tracking |
+| [DASP](https://github.com/defremont/dasp-composed) | Decentralized scientific publishing on Hyperledger Fabric |
+| [GitFolio](https://gitfolio.dcoder.io) | Portfolio generator with multi-LLM support |
 
-[Browse all projects →](https://dcoder.io/portfolio.html)
+[All projects](https://dcoder.io/projects.html)
 
 ---
 
