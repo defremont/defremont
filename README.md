@@ -25,10 +25,10 @@ also       hyperledger, ethereum, solidity
 
 | Project | What it does |
 |---|---|
+| [Shipyard](https://github.com/defremont/Shipyard) | Local-first development dashboard: manage projects, tasks, git, and terminals from your browser. No cloud, no accounts, just localhost |
 | [Rede Capanema](https://dev.redecapanema.com.br) | Multi-vendor marketplace with split payments for local businesses |
 | [RadioGuess](https://radioguess.dcoder.io) | Geography game -- guess the country from its radio stations |
-| [Audience Insights](https://github.com/defremont/audience-insights) | Real-time Twitch chat analysis with sentiment tracking |
-| [DASP](https://github.com/defremont/dasp-composed) | Decentralized scientific publishing on Hyperledger Fabric |
+| [ChatMood](http://chatmood.ai) | Real-time Twitch chat analysis with sentiment tracking |
 | [GitFolio](https://gitfolio.dcoder.io) | Portfolio generator with multi-LLM support |
 
 [All projects](https://dcoder.io/projects.html)
